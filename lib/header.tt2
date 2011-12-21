@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" /> 
+        <title>Smarte Software für clevere Prospektverteiler [ProspektDevice.]</title>
+        <link rel="stylesheet" href="main.css" type="text/css" media="screen" />
+        <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+    </head>
+    <body class="[% class %]">
+

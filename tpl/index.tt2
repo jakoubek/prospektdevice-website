@@ -1,0 +1,65 @@
+[%
+    class = "index"
+%]
+
+<div class="nav">
+  <ul>
+    <li class="home"><a href="/">Start</a></li>
+    <li class="blog"><a href="http://blog.prospektdevice.de">Blog</a></li>
+    <li class="twitter"><a href="http://twitter.com/ProspektDevice">Twitter</a></li>
+    <li class="forum"><a href="http://forum.prospektdevice.de">Forum</a></li>
+    <li class="wiki"><a href="http://wiki.prospektdevice.de">Dokumentation</a></li>
+  </ul>
+</div>
+
+<div class="container">
+
+<div id="productHeader">
+    <h2>ProspektDevice.</h2>
+</div>
+
+<div class="slogan" id="slogan">
+
+<div id="mainSlogan">
+    <h1>Smarte Software für clevere Prospektverteiler.</h1>
+    <h5>Die moderne Branchensoftware für Prospektverteilung.</h5>
+</div>
+
+</div>
+
+<div class="abschnitt" id="zielgruppe">
+
+<div class="abschnitt-header">
+<h2>Für wen ist ProspektDevice gedacht?</h2>
+</div>
+
+<div class="abschnitt-content">
+<p>ProspektDevice wird für mittelständische Unternehmen aus dem Bereich Prospekt- und Anzeigenblattverteilung, Direktwerbung, Haushaltswerbung und Direkt&shy;marketing entwickelt.</p>
+
+<p>Prospektverteilunternehmen kennen ihre Abläufe und die Anforderungen an ihre zentrale Software: die Disposition von Verteilaufträgen ist anspruchsvoll und datenintensiv &mdash; herkömmliche Warenwirtschaftsprogramme können dies nicht leisten.</p>
+</div> <!-- Ende zielgruppe abschnitt-content -->
+
+</div> <!-- Ende zielgruppe -->
+
+<div class="abschnitt" id="funktionen">
+
+<div class="abschnitt-header">
+<h2>Was leistet ProspektDevice?</h2>
+</div>
+
+<div class="abschnitt-content">
+<p><span class="para-start">Zustellerverwaltung</span> &middot; Erfassen Sie Zustellinteressen und wandeln Sie sie in Zusteller um. Stellen Sie Zusteller ein und pflegen Sie den Beschäftigungszeitraum.</p>
+<p><span class="para-start">Bezirksverwaltung</span> &middot; Legen Sie Bezirke an, um Ihre Verteilstruktur abzubilden. Sie können zu Bezirken Postleitzahlen und geografische Zuordnungen erfassen. Weisen Sie Ihren Bezirken Zusteller zu, getrennt nach Wochentagen. Pflegen Sie Abwesen&shy;heiten Ihrer Zusteller.</p>
+<p><span class="para-start">Pflege von Haushaltszahlen</span> &middot; Pflegen Sie auf Bezirksebene Ihre Brutto- und Nettohaushaltszahlen.</p>
+<p><span class="para-start">Verteilkunden</span> &middot; Hinterlegen Sie einen Kundenstammsatz mit Ansprechpartnern und Kontaktdaten Ihrer Auftraggeber.</p>
+<p><span class="para-start">Verteilgebiete</span> &middot; Erfassen Sie für Ihre Kunden Verteilgebiete. Sie können Verteilgebiete aus Bezirken, Postleitzahlen oder geografischen Einheiten zusammensetzen.</p>
+<p><span class="para-start">Auftragsverwaltung</span> &middot; Buchen Sie die Verteilaufträge Ihrer Kunden ein. Erzeugen Sie mehrfache und wiederkehrende Aufträge.</p>
+<p><span class="para-start">Druck von Tourenpapieren</span> &middot; Erzeugen Sie Packzettel, Tourenlisten und Lieferscheine. Sie können diese ausdrucken oder als PDF speichern.</p>
+<p><span class="para-start">Zustellerabrechnung</span> &middot; Rechnen Sie Ihre Zusteller ab (nur auf Bruttobasis &ndash; ohne Berücksichtigung sozialversicherungsrechtlicher und steuerlicher Aspekte).</p>
+<p><span class="para-start">Fakturierung</span> &middot; Rechnen Sie die Verteilaufträge Ihrer Kunden ab und lassen Sie daraus automatisch Rechnungen erzeugen.</p>
+<p><span class="para-start">Robinsonadressen</span> &middot; Pflegen Sie die Adressen von Werbeverweigerern und drucken Sie diese auf die Zustellerlieferscheine.</p>
+</div> <!-- Ende zielgruppe abschnitt-content -->
+
+</div> <!-- Ende funktionen -->
+
+</div> <!-- Ende container -->

@@ -1,0 +1,126 @@
+body {
+  padding: 30px;
+  text-align: center;
+  background-color: #fff;
+  color: #222;
+}
+
+div.container, div.footer {
+  margin: 0 auto 30px;
+  width: 900px;
+  padding: 0;
+}
+
+h5 {
+  font-size: 1.5em;
+  font-weight: 500;
+  margin: 10px 0;
+}
+
+/*
+ *  Navigation
+ */
+
+div.nav {
+  text-align: right;
+  padding: 10px;
+  margin: -30px 0 20px 0;
+}
+
+div.nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+div.nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin: 0;
+  padding: 0 10px 0;
+  font-size: 12px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+body.index div.nav ul li.home {
+  display: none;
+}
+
+/*
+ *  Produkttitel
+ */
+
+body div#productHeader {
+  margin-bottom: 80px;
+}
+
+body div#productHeader h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.4em;
+  font-weight: 500;
+  margin: 10px 0;
+}
+
+/*
+ *  Startseite
+ */
+
+/* Kopf */
+
+body.index div.slogan {
+  margin-bottom: 7em;
+}
+
+body.index div#mainSlogan h1 {
+  font-family: 'Vollkorn', serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 5em;
+  clear: both;
+  line-height: 1.0em;
+  margin-bottom: 20px;
+  letter-spacing: -2px;
+  color: #232323;
+}
+
+body.index div#mainSlogan h5 {
+  font-family: 'Vollkorn', serif;
+  font-size: 1.4em;
+  font-weight: 500;
+  margin: 10px 0;
+}
+
+/* Abschnitte */
+
+body.index div.abschnitt {
+  margin-bottom: 3.5em;
+}
+
+body.index div.abschnitt div.abschnitt-header {
+  width: 920px;
+  padding: 0;
+}
+
+body.index div.abschnitt div.abschnitt-content {
+  margin-left: 120px;
+  width: 700px;
+  padding: 0;
+}
+
+body.index div.abschnitt h2 {
+  font-family: 'Vollkorn', serif;
+  font-size: 3em;
+}
+
+body.index div.abschnitt p {
+  text-align: left;
+  font-family: 'Vollkorn', serif;
+  font-size: 1.2em;
+}
+
+/* Zielgruppe */
+
+/* Funktionen */
+
+body.index div#funktionen span.para-start {
+  color: #CC0000;
+}
