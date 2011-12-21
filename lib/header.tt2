@@ -2,7 +2,9 @@
 <html>
     <head>
         <meta charset="UTF-8" /> 
-        <title>Smarte Software für clevere Prospektverteiler [ProspektDevice]</title>
+        <title>Smarte Software für clevere Prospektverteiler - ProspektDevice</title>
+        <meta name="description" content="ProspektDevice ist eine schlanke Branchensoftware für Prospektverteilung und wird für mittelständische Unternehmen entwickelt." />
+        <meta name="keywords" content="prospektverteilung, direktverteilung, haushaltswerbung, direktwerbung, anzeigenblatt, direktmarketing, software, branchensoftware, branchenlösung" />
         <link rel="shortcut icon" href="/favicon.ico" /> 
         <link rel="stylesheet" href="main.css" type="text/css" media="screen" />
         <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
