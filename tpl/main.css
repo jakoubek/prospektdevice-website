@@ -88,6 +88,10 @@ body div#footer a {
   padding-left: 10px;
 }
 
+body div#footer a {
+  display: none;
+}
+
 /*
  *  Startseite
  */
