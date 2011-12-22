@@ -2,16 +2,6 @@
     class = "index"
 %]
 
-<div class="nav">
-  <ul>
-    <li class="home"><a href="/">Start</a></li>
-    <li class="blog"><a href="http://blog.prospektdevice.de">Blog</a></li>
-    <li class="twitter"><a href="http://twitter.com/ProspektDevice">Twitter</a></li>
-    <li class="forum"><a href="http://forum.prospektdevice.de">Forum</a></li>
-    <li class="wiki"><a href="http://wiki.prospektdevice.de">Dokumentation</a></li>
-  </ul>
-</div>
-
 <div class="container">
 
 <div id="productHeader">

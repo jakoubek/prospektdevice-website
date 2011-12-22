@@ -1,5 +1,6 @@
 [% PROCESS config.tt2 %]
 [% PROCESS header.tt2 %]
+[% PROCESS navigation.tt2 %]
 [% content %]
 [% INCLUDE piwik.tt2 %]
 [% PROCESS footer.tt2 %]

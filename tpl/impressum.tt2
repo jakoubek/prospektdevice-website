@@ -1,0 +1,41 @@
+[%
+    class = "impressum"
+%]
+
+<div class="container">
+
+<div id="productHeader">
+    <h2>ProspektDevice.</h2>
+</div>
+
+<div class="pageTitle" id="impressum">
+    <h1>Impressum</h1>
+</div>
+
+<div class="abschnitt" id="zielgruppe">
+
+<div class="abschnitt-content">
+    <p><span class="emph">Betreiber</span> der Webseiten</p>
+    <ul>
+        <li>www.prospektdevice.de</li>
+        <li>blog.prospektdevice.de</li>
+        <li>wiki.prospektdevice.de</li>
+        <li>forum.prospektdevice.de</li>
+        <li>www.software-fuer-prospektverteilung.de</li>
+    </ul>
+    <p>ist</p>
+    <p class="content">
+    <span class="emph">Oliver Jakoubek</span><br />
+    Maria-Lanz-Straße 20<br />
+    88677 Markdorf<br />
+    Deutschland<br />
+    </p>
+    <p>Kontakt</p>
+    <p class="content">
+    E-Mail: info@prospektdevice.de<br />
+    Telefon: +49 (0) 75 44 / 90 40 20 00<br />
+    Fax: +49 (0) 75 44 / 90 40 20 09<br />
+    </p>
+</div>
+
+</div>

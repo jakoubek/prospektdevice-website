@@ -3,6 +3,7 @@ body {
   text-align: center;
   background-color: #fff;
   color: #222;
+  font-family: 'Vollkorn', serif;
 }
 
 div.container, div.footer {
@@ -15,6 +16,10 @@ h5 {
   font-size: 1.5em;
   font-weight: 500;
   margin: 10px 0;
+}
+
+div.pageTitle h1 {
+
 }
 
 /*
@@ -42,6 +47,10 @@ div.nav ul li {
 }
 
 body.index div.nav ul li.home {
+  display: none;
+}
+
+body.impressum div.nav ul li.impressum {
   display: none;
 }
 
@@ -113,7 +122,6 @@ body.index div.abschnitt h2 {
 
 body.index div.abschnitt p {
   text-align: left;
-  font-family: 'Vollkorn', serif;
   font-size: 1.2em;
 }
 
@@ -123,4 +131,44 @@ body.index div.abschnitt p {
 
 body.index div#funktionen span.para-start {
   color: #CC0000;
+}
+
+/*
+ *  Impressum
+ */
+
+/* Kopf */
+
+body.impressum div.abschnitt {
+  margin-bottom: 3.5em;
+}
+
+body.impressum div.abschnitt div.abschnitt-header {
+  width: 920px;
+  padding: 0;
+}
+
+body.impressum div.abschnitt div.abschnitt-content {
+  margin-left: 120px;
+  width: 700px;
+  padding: 0;
+}
+
+body.impressum div.abschnitt p {
+  text-align: left;
+  font-size: 1.2em;
+}
+
+body.impressum div.abschnitt-content ul {
+  list-style-type: square;
+  text-align: left;
+  font-size: 1.2em;
+}
+
+body.impressum div.abschnitt p.content {
+  margin-left: 15px;
+}
+
+body.impressum div.abschnitt-content p span.emph {
+  font-weight: bold;
 }
