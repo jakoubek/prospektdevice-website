@@ -22,6 +22,10 @@ div.pageTitle h1 {
 
 }
 
+body span {
+  font-weight: bold;
+}
+
 /*
  *  Navigation
  */
@@ -67,6 +71,21 @@ body div#productHeader h2 {
   font-size: 1.4em;
   font-weight: 500;
   margin: 10px 0;
+}
+
+/*
+ *  Footer
+ */
+
+body div#footer {
+  color: #222;
+  margin: 5em auto 30px;
+  width: 900px;
+  padding: 0;
+}
+
+body div#footer a {
+  padding-left: 10px;
 }
 
 /*
